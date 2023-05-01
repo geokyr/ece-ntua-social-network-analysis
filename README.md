@@ -11,8 +11,8 @@ This lab included the following topics:
 - Network metrics - **Clustering Coefficient, Average Path Length, Diameter, Radius**
 - Node Centrality metrics - **Degree, Closeness, Betweenness, Katz Centrality and PageRank** 
 - Network **connectivity** and **robustness**
-- Evolutionary network transformations
-- Real networks
+- **Evolutionary network transformations**
+- **Real networks**
 
 ## Lab 02 - Community Detection
 
