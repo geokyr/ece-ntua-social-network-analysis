@@ -7,6 +7,7 @@ Lab Assignments for the [Social Network Analysis](https://www.ece.ntua.gr/en/und
 The first lab was about analyzing and studying complex network topologies. The [NetworkX](https://networkx.org/) library was heavily utilized in this and the following labs. 
 
 This lab included the following topics:
+
 - Construction and visualization of complex networks - REG, RG(ER), RGG, SF(BA), SW(WS)
 - Network metrics - Clustering Coefficient, Average Path Length, Diameter, Radius
 - Node Centrality metrics - Degree, Closeness, Betweenness, Katz Centrality and PageRank 
