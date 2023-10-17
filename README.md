@@ -2,9 +2,13 @@
 
 Lab Assignments for the [Social Network Analysis](https://www.ece.ntua.gr/en/undergraduate/courses/3379) course, during the 9th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
+## Lab Assignments
+
+There were 3 lab assignments in total, providing a deep dive into the realm of social network analysis. Throughout the labs, complex network topologies were explored, as well as topics like community detection and link prediction. Using the [NetworkX](https://networkx.org/) library, various algorithms were analyzed, visualized, and applied to uncover insights within complex network structures.
+
 ## Lab 01 - Complex Network Topologies
 
-The first lab was about analyzing and studying complex network topologies. The [NetworkX](https://networkx.org/) library was heavily utilized in this and the following labs. 
+The first lab was about analyzing and studying complex network topologies.
 
 This lab included the following topics:
 
