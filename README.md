@@ -1,4 +1,4 @@
-# ece-ntua-social-network-analysis
+# social-network-analysis
 
 Lab Assignments for the [Social Network Analysis](https://www.ece.ntua.gr/en/undergraduate/courses/3379) course, during the 9th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
